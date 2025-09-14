@@ -30,16 +30,15 @@ Usefull IOS Sideload websites
 
 <a href="https://github.com/LiveContainer/LiveContainer">LiveContainer Github</a>
 
+APK and IPA List Update 09.14.2025
 
-APK and IPA List Update 09.01.2025
-
-<a href="https://github.com/antmanforever/antmanforever.github.io/releases/download/08.30.2025-1/EeveeSpotify-9.0.74.ipa">EeveeSpotify - IOS</a>
+<a href="https://github.com/antmanforever/antmanforever.github.io/releases/download/09.14.2025/Spotify.9.0.76.1126.apk">EeveeSpotify - IOS</a>
 
 <a href="https://github.com/antmanforever/antmanforever.github.io/releases/download/08.30.2025-1/YouTubePlus_5.2b3.20.31.6.ipa">YouTubePlus - IOS</a>
 
 <a href="https://github.com/antmanforever/antmanforever.github.io/releases/download/08.30.2025-1/YTMusicUltimate.8.33.ipa">YTMusicUltimate - IOS</a>
 
-<a href="https://github.com/antmanforever/antmanforever.github.io/releases/download/09.01.2025/adguard41127x86.apk">Aguard - ANDROIDTV</a>
+<a href="https://github.com/antmanforever/antmanforever.github.io/releases/download/09.14.2025/Adguard.4.11.63.Prem.32.Bit.apk">Aguard - ANDROIDTV</a>
 
 <a href="https://github.com/antmanforever/antmanforever.github.io/releases/download/09.01.2025/Background.Apps.Process.List.v1.3G23i.apk">Background Apps and Process List - ANDROIDTV</a>
 
@@ -61,7 +60,7 @@ APK and IPA List Update 09.01.2025
 
 <a href="https://github.com/antmanforever/antmanforever.github.io/releases/download/08.30.2025-2/hdobox211x64MOBILE.apk">hdoboxMOBILE - ANDROID</a>
 
-<a href="https://github.com/antmanforever/antmanforever.github.io/releases/download/08.30.2025-2/adguard41127x64.apk">Adguard - ANDROID</a>
+<a href="https://github.com/antmanforever/antmanforever.github.io/releases/download/09.14.2025/Adguard.4.11.63.Prem.64.Bit.apk">Adguard - ANDROID</a>
 
 <a href="https://github.com/antmanforever/antmanforever.github.io/releases/download/08.30.2025-2/mediaon116x64.apk">mediaON - ANDROID</a>
 
@@ -71,10 +70,10 @@ APK and IPA List Update 09.01.2025
 
 <a href="https://github.com/antmanforever/antmanforever.github.io/releases/download/08.30.2025-2/anddea.ReVanced.YouTube.Music.Extended.8.30.54.apk">anddea ReVanced YouTube Music Extended - ANDROID</a>
 
-<a href="https://github.com/antmanforever/antmanforever.github.io/releases/download/08.30.2025-2/spotify9066655.apk">Spotify - ANDROID</a>
+<a href="https://github.com/antmanforever/antmanforever.github.io/releases/download/09.14.2025/Spotify.9.0.76.1126.apk">Spotify - ANDROID</a>
 
-<a href="https://github.com/antmanforever/antmanforever.github.io/releases/download/08.30.2025-2/YouTube.ReVanced.20.13.41.apk">YouTube ReVanced - ANDROID</a>
+<a href="https://github.com/antmanforever/antmanforever.github.io/releases/download/09.14.2025/vanced.to_vanced_youtube_v20.13.41_cli5.0.2.2_p5.37.0.2.apk">YouTube ReVanced - ANDROID</a>
 
-<a href="https://github.com/antmanforever/antmanforever.github.io/releases/download/08.30.2025-2/ReVanced.YouTube.Music.8.34.51.apk">YouTube Music ReVanced - ANDROID</a>
+<a href="https://github.com/antmanforever/antmanforever.github.io/releases/download/09.14.2025/vanced.to_vanced_youtube_music_arm64_v8a_v8.36.51_cli5.0.2.2_p5.36.0.1.apk">YouTube Music ReVanced - ANDROID</a>
 
 
