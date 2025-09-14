@@ -18,6 +18,8 @@ Useful Android Root Websites
 
 Usefull IOS Sideload websites
 
+<a href="https://altstore.io/">altstore</a>
+
 <a href="https://armconverter.com/decryptedappstore/us">Decrypted ipa</a>
 
 <a href="https://armconverter.com/decryptedappstore/us/app/youtube/id544007664?bundleId=com.google.ios.youtube">Decrypted YouTube ipa</a>
