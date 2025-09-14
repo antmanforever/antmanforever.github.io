@@ -16,7 +16,7 @@ Useful Android Root Websites
 
 <a href="https://github.com/EricInacio01/PlayIntegrityFix-NEXT">PlayIntegrityFix-NEXT Github</a>
 
-Usefull IOS Sideload websites
+Useful IOS Sideload websites
 
 <a href="https://altstore.io/">altstore</a>
 
