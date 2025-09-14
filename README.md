@@ -1,5 +1,36 @@
 # antmanforever.github.io
 
+Useful Websites
+
+<a href="https://github.com/yuliskov/SmartTube">SmartTube Github</a>
+
+<a href="https://github.com/WSTxda/MicroG-RE">MicroG-RE Github</a>
+
+Useful Android Root Websites
+
+<a href="https://github.com/topjohnwu/Magisk">Magisk Github</a>
+
+<a href="https://github.com/5ec1cff/TrickyStore">TrickyStore Github</a>
+
+<a href="https://github.com/KOWX712/Tricky-Addon-Update-Target-List">Tricky Addon Github</a>
+
+<a href="https://github.com/EricInacio01/PlayIntegrityFix-NEXT">PlayIntegrityFix-NEXT Github</a>
+
+Usefull IOS Sideload websites
+
+<a href="https://armconverter.com/decryptedappstore/us">Decrypted ipa</a>
+
+<a href="https://armconverter.com/decryptedappstore/us/app/youtube/id544007664?bundleId=com.google.ios.youtube">Decrypted YouTube ipa</a>
+
+<a href="https://armconverter.com/decryptedappstore/us/app/youtube-music/id1017492454?bundleId=com.google.ios.youtubemusic">Decrypted YouTube Music ipa</a>
+
+<a href="https://litterbox.catbox.moe/">litterbox upload site</a>
+
+<a href="https://github.com/SideStore/SideStore">Sidestore Github</a>
+
+<a href="https://github.com/LiveContainer/LiveContainer">LiveContainer Github</a>
+
+
 APK and IPA List Update 09.01.2025
 
 <a href="https://github.com/antmanforever/antmanforever.github.io/releases/download/08.30.2025-1/EeveeSpotify-9.0.74.ipa">EeveeSpotify - IOS</a>
