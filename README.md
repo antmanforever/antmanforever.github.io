@@ -34,7 +34,7 @@ Useful IOS Sideload websites
 
 APK and IPA List Update 09.14.2025
 
-<a href="https://github.com/antmanforever/antmanforever.github.io/releases/download/09.14.2025/Spotify.9.0.76.1126.apk">EeveeSpotify - IOS</a>
+<a href="https://github.com/antmanforever/antmanforever.github.io/releases/download/09.20.2025/EeveeSpotify-9.0.80.ipa">EeveeSpotify - IOS</a>
 
 <a href="https://github.com/antmanforever/antmanforever.github.io/releases/download/08.30.2025-1/YouTubePlus_5.2b3.20.31.6.ipa">YouTubePlus - IOS</a>
 
