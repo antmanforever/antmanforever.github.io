@@ -6,7 +6,13 @@ Useful Websites
 
 <a href="https://github.com/WSTxda/MicroG-RE">MicroG-RE Github</a>
 
-<a href="[https://github.com/WSTxda/MicroG-RE](https://github.com/amarullz/kaicodex/tree/main/generated/bin">AnimeTV Github</a>
+<a href="https://github.com/amarullz/kaicodex/tree/main/generated/bin">AnimeTV Github</a>
+
+<a href="https://fmhy.net/video#live-tv">FREE TV/MOVIES/LIVE SPORTS LINKS</a>
+
+<a href="https://watchfreemoviesandseries.com/?category=sports">MORE FREE TV/MOVIES/LIVE SPORTS LINKS</a>
+
+<a href="https://libgen.help/">LibGen ebook for textbooks</a>
 
 Useful Android Root Websites
 
