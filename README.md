@@ -52,11 +52,11 @@ android tv
 
 <a href="https://github.com/antmanforever/antmanforever.github.io/releases/download/09.01.2025/fast-task-killer-4-0-4.apk">Fast Task Killer - ANDROIDTV</a>
 
-<a href="https://github.com/antmanforever/antmanforever.github.io/releases/download/09.01.2025/implayer.apk">imPlayer - ANDROIDTV</a>
+<a href="https://implayer.tv/d">imPlayer - ANDROIDTV</a>
 
-<a href="https://github.com/antmanforever/antmanforever.github.io/releases/download/09.01.2025/SmartTube_stable_29.37_armeabi-v7a.apk">SmartTube - ANDROIDTV</a>
+<a href="https://github.com/yuliskov/SmartTube/releases/download/30.19s/SmartTube_stable_30.19_armeabi-v7a.apk">SmartTube - ANDROIDTV</a>
 
-<a href="https://github.com/antmanforever/antmanforever.github.io/releases/download/09.01.2025/stremio.1.6.12-11049190-armeabi-v7a.apk">Stremio - ANDROIDTV</a>
+<a href="https://dl.strem.io/android/v1.7.4-androidTV/com.stremio.one-1.7.4-11049200-armeabi-v7a.apk">Stremio - ANDROIDTV</a>
 
 <a href="https://github.com/antmanforever/antmanforever.github.io/releases/download/09.01.2025/tivimate.apk">TiviMate - ANDROIDTV</a>
 
