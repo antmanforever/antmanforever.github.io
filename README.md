@@ -6,6 +6,8 @@ Useful Websites
 
 <a href="https://github.com/WSTxda/MicroG-RE">MicroG-RE Github</a>
 
+<a href="[https://github.com/WSTxda/MicroG-RE](https://github.com/amarullz/kaicodex/tree/main/generated/bin">AnimeTV Github</a>
+
 Useful Android Root Websites
 
 <a href="https://github.com/topjohnwu/Magisk">Magisk Github</a>
@@ -32,13 +34,17 @@ Useful IOS Sideload websites
 
 <a href="https://github.com/LiveContainer/LiveContainer">LiveContainer Github</a>
 
-APK and IPA List Update 09.14.2025
+APK and IPA List Update 11.09.2025
+
+iphone/ipad
 
 <a href="https://github.com/antmanforever/antmanforever.github.io/releases/download/09.20.2025/EeveeSpotify-9.0.80.ipa">EeveeSpotify - IOS</a>
 
 <a href="https://github.com/antmanforever/antmanforever.github.io/releases/download/08.30.2025-1/YouTubePlus_5.2b3.20.31.6.ipa">YouTubePlus - IOS</a>
 
 <a href="https://github.com/antmanforever/antmanforever.github.io/releases/download/08.30.2025-1/YTMusicUltimate.8.33.ipa">YTMusicUltimate - IOS</a>
+
+android tv
 
 <a href="https://github.com/antmanforever/antmanforever.github.io/releases/download/09.14.2025/Adguard.4.11.63.Prem.32.Bit.apk">Aguard - ANDROIDTV</a>
 
@@ -59,6 +65,8 @@ APK and IPA List Update 09.14.2025
 <a href="https://github.com/antmanforever/antmanforever.github.io/releases/download/08.30.2025-2/dramaplayer109x64.apk">dramaplayer - ANDROIDTV</a>
 
 <a href="https://github.com/antmanforever/antmanforever.github.io/releases/download/08.30.2025-2/hdobox213x64ATV.apk">hdoboxATV - ANDROIDTV</a>
+
+android phone/tablet
 
 <a href="https://github.com/antmanforever/antmanforever.github.io/releases/download/08.30.2025-2/hdobox211x64MOBILE.apk">hdoboxMOBILE - ANDROID</a>
 
